@@ -8,6 +8,13 @@ h2 {
     font-size: 20px;
 }
 
+.about img {
+    src: url("../Тестовое Задание Курс/photo_2025-10-15_21-01-28.jpg");
+    max-width: 300px;
+    max-height: 300px;
+    margin-top: 20px;
+}
+
 .about-me {
     font-family: "Noto Sans", sans-serif;
     margin-left: 100px;
@@ -25,7 +32,6 @@ h2 {
     font-family: "Noto Sans", sans-serif;
 }
 .skills ul {
-    /* margin-left: 50px; */
     font-size: 18px;
     list-style: none;
 }
